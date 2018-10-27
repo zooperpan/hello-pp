@@ -1,0 +1,10 @@
+CC = gcc
+CFLAGS = -Iinc
+BUILD_DIR = build
+DEPS_DIR = deps
+TARGET = test
+VPATH = src
+VPATH += src/newFiles
+SOURCES = test.c
+SOURCES += testfunc.c
+SOURCES += testnew.c
