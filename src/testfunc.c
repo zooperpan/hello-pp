@@ -5,6 +5,6 @@
 
 void printMessage() {
 	if (getHelp() == 1)
-		rintf(MESSAGE);
+		printf(MESSAGE);
 } 
 
