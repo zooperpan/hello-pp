@@ -1,1 +1,1 @@
-#define MESSAGE "Hello world!\n"
+#define MESSAGE "Hello P-P Build System!\n"
